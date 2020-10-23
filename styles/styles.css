@@ -1,0 +1,39 @@
+<style>
+  /* this is a commenting style for CSS */
+  * {
+    boarder: 1px dashed red
+  }
+
+  body {
+    font-size: 16px;
+    color: red;
+    background-color: whitesmoke
+  }
+
+  p {
+    color: lightblue
+  }
+
+  .main-paragraph:hover {
+    color: rosybrown;
+    font-size: 2rem;
+  }
+
+  .second-paragraph {
+    color: red;
+
+  }
+  .responsive {
+
+    width: 35%;
+    height: auto;
+    border-style: dotted;
+  }
+  a [href="./about-me.html"]{
+    color: blue
+  }
+
+  a [href="https://www.w3schools.com/colors/colors_names.asp"] {
+    color: orange
+  }
+</style>
